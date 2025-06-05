@@ -1,3 +1,3 @@
 # GitLab2
 
-Any content that I like
+I decided to remove this line
